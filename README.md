@@ -132,3 +132,7 @@ Acesse em seu navegador http://seu_ip:porta ou http://zabbix.seudominio.com.br
 Entre com o Usuário Admin e a senha zabbix
 
 ![image](https://user-images.githubusercontent.com/94009104/234944017-e869f4fe-2022-4453-aa61-9608a89975d8.png)
+
+Configuração do zabbix segue nesse link
+       
+       https://github.com/gabrielteixeiranetwork/Configuration_Zabbix_5.0.2
