@@ -128,5 +128,7 @@ Acesse em seu navegador http://seu_ip:porta ou http://zabbix.seudominio.com.br
 ![image](https://user-images.githubusercontent.com/94009104/234943781-67ca5845-3c2e-41b1-a7f8-5ea2ff2c8be7.png)
 ![image](https://user-images.githubusercontent.com/94009104/234943817-8c8e0c03-879e-4427-bd32-f3924bfdb0d1.png)
 ![image](https://user-images.githubusercontent.com/94009104/234943903-ae04b35d-ed7a-48ac-af7e-1d74fe0246a9.png)
+
 Entre com o Usuário Admin e a senha zabbix
+
 ![image](https://user-images.githubusercontent.com/94009104/234944017-e869f4fe-2022-4453-aa61-9608a89975d8.png)
