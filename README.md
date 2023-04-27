@@ -135,4 +135,4 @@ Entre com o Usuário Admin e a senha zabbix
 
 Configuração do zabbix segue nesse link
        
-       https://github.com/gabrielteixeiranetwork/Configuration_Zabbix_5.0.2
+https://github.com/gabrielteixeiranetwork/Configuration_Zabbix_5.0.2
