@@ -119,5 +119,14 @@ Ajuste as configurações do nginx  vim /etc/nginx/conf.d/zabbix.conf
     }
 Inicie o servidor Zabbix
     
-   systemctl enable zabbix-server zabbix-agent
-   systemctl restart zabbix-server zabbix-agent nginx php7.4-fpm
+    systemctl enable zabbix-server zabbix-agent
+    systemctl restart zabbix-server zabbix-agent nginx php7.4-fpm
+Acesse em seu navegador http://seu_ip:porta ou http://zabbix.seudominio.com.br
+![image](https://user-images.githubusercontent.com/94009104/234943543-fa9c75c0-d23e-439d-8df7-d4f3786ba8f4.png)
+![image](https://user-images.githubusercontent.com/94009104/234943638-6b603905-e909-419c-ba8b-298fe082abde.png)
+![image](https://user-images.githubusercontent.com/94009104/234943727-5b350c24-cf77-4f73-a58f-2679e28ed32f.png)
+![image](https://user-images.githubusercontent.com/94009104/234943781-67ca5845-3c2e-41b1-a7f8-5ea2ff2c8be7.png)
+![image](https://user-images.githubusercontent.com/94009104/234943817-8c8e0c03-879e-4427-bd32-f3924bfdb0d1.png)
+![image](https://user-images.githubusercontent.com/94009104/234943903-ae04b35d-ed7a-48ac-af7e-1d74fe0246a9.png)
+Entre com o Usuário Admin e a senha zabbix
+![image](https://user-images.githubusercontent.com/94009104/234944017-e869f4fe-2022-4453-aa61-9608a89975d8.png)
